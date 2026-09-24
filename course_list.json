@@ -1,0 +1,36 @@
+{
+  "yourCourses": [
+    {
+      "title": "Speak English with Aleena",
+      "image": "https://rolexcoderz.com/pics/course.webp",
+      "duration": "17 Hours +",
+      "modules": "76 Videos",
+      "language": "English"
+    },
+    {
+      "title": "Bonus Video - Motivation and speaking activities",
+      "image": "https://rolexcoderz.com/pics/bonus.webp",
+      "duration": "2 Hours +",
+      "modules": "20 Videos",
+      "language": "English"
+    }
+  ],
+  "upcomingCourses": [
+    {
+      "title": "Speak English with Aleena (Hindi)",
+      "status": "Coming Soon",
+      "image": "https://rolexcoderz.com/pics/upcoming.jpg",
+      "category": "LANGUAGE",
+      "duration": "15+ HOURS",
+      "description": "Learn to speak English fluently with Aleena, now in Hindi!"
+    },
+    {
+      "title": "Vocabulary Masterclass",
+      "status": "Coming Soon",
+      "image": "https://rolexcoderz.com/pics/upcoming.jpg",
+      "category": "LANGUAGE",
+      "duration": "10+ HOURS",
+      "description": "Learn 1000 English vocabulary words with meanings and examples."
+    }
+  ]
+}

@@ -1,0 +1,1164 @@
+[
+  {
+    "id": "course_m1",
+    "name": "Introduction to English",
+    "image": "images/course/module_1.jpg",
+    "lessons": [
+      {
+        "id": "m1_l1",
+        "title": "Alphabet Pronunciation and Sounds",
+        "info": "Learn how to correctly pronounce the alphabet and understand the various sounds..",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQMZSUc9FBANX008UlhIUQtQaB8IUAVFVRU7FEJZRBk-AwlTBkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L01_Alphabet-Pronunciation-And-Sounds.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l2",
+        "title": "Basic Vocabulary",
+        "info": "Learn essential vocabulary to build your language skills.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQRDHkltQkQOX0FoBF1IUQoHax8JUAQYVRQ-QBZeQRpsAlpVBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L02_Basic-Vocabulary.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l3",
+        "title": "Nouns and Pronouns",
+        "info": "Understand nouns and pronouns and how to use them effectively.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQESGUNmR0tdX087WA9IUVlTax9RBlISVRE-RkMMSx5nWV8EXUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L03_Nouns-And-Pronouns.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l4",
+        "title": "Articles",
+        "info": "Learn the use of articles (a, an, the) in sentences.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQFDQRNtRhYKXxptB1RIUVsAPB8JBgYUVUVmR0QNRBtnVgpRBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L04_Articles.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l5",
+        "title": "Verbs - Modal Verbs, Regular & Irregular Verbs",
+        "info": "Understand the difference between modal verbs, regular verbs, and irregular verbs.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQUSHUloRBRaXx45WVVIUQpQah9SBVZEVURnQxZWRBs6Uw9TVUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L05_Verbs-Modal-Regular-Irregular.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l6",
+        "title": "Adjectives and Adverbs",
+        "info": "Learn how to use adjectives and adverbs correctly in sentences.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQcTTEhqQRdaX0xrBApIUQ1UOx8IUFBDVRZsQ0MNRhttUghcB0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L06_Adjectives-And-Adverbs.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l7",
+        "title": "Prepositions",
+        "info": "Understand how to use prepositions such as in, on, at, under, and over.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQRFG0k9R0FeX0A6WQpIUQtZbR8IUwNDVRVsEUMJF045BF5dU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L07_Prepositions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l8",
+        "title": "Tenses",
+        "info": "Learn about different tenses and how to use them properly in sentences.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQATHBNvREZWX0w8WFhIUVwEbh9SAVAVVUU-RUdaRkpoVFldAEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L08_Tenses.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l9",
+        "title": "Punctuations",
+        "info": "Master the use of punctuation marks such as commas, periods, and question marks.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVYSG0hsRUoLX01oAw5IUQ9VbR9RAlBFVUg8FBENEE1oWV5SU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L09_Punctuations.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l10",
+        "title": "Naming of Dates and Time",
+        "info": "Learn how to properly name dates and times in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQUUSUJqEhFaX0k-WQhIUVxUaB8JUQ0YVRE7SUALRBs8UloGVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L10_Naming-Of-Dates-And-Time.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l11",
+        "title": "Coordinating Conjunctions",
+        "info": "Learn how to use coordinating conjunctions such as and, but, and or in sentences.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQZFGxFqFENZX09rBV1IUVxSax9RBQESVUFpEUoLREE5AF1dVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L11_Coordinating-Conjunctions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l12",
+        "title": "Idioms",
+        "info": "Learn some common idioms in English and their meanings.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQcUG0JuRkpaX09rVV5IUVlQOR8JUwMQVUFpR0VaQBlsA14HU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L12_Idioms.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l13",
+        "title": "Phrasal Verbs",
+        "info": "Understand phrasal verbs and how to use them in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQBEQRRvRUUJXxxpUVpIUVZRaR9RBgUSVUI-EUcORBo9V19cA0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L13_Phrasal-Verbs.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l14",
+        "title": "Simple Sentence Structure",
+        "info": "Learn how to form simple sentences in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVAQHEM-QxEKX046BwlIUVZUOx8IVwUSVUhoERBdFBxmVFtdXEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L14_Simple-Sentence-Structure.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l15",
+        "title": "Sentence Joining and Construction",
+        "info": "Understand how to join and construct sentences properly.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQBCSEBpSEdbX01oUwhIUVsCbB9RAAcZVUE-FEIJRU9mVF0EUEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L15_Sentence-Joining-And-Construction.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l16",
+        "title": "Active and Passive Voice",
+        "info": "Learn the difference between active and passive voice.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQYQGUhoExBbXxw7BV9IUVgDbx8IAwFHVRY-SUpcQko7WQ5XVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L16_Active-Passive-Voice.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l17",
+        "title": "Most Common Grammatical Errors",
+        "info": "Understand the most common grammatical errors and how to avoid them.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQIWTUY-ExQMXx5tBF1IUV8Fah9SBA1EVUhqRktaERo9AlxXVEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L17_Most-Common-Grammatical-Errors.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m1_l18",
+        "title": "Other Terms (Like Pangrams, etc.)",
+        "info": "Explore other useful language terms such as pangrams.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQ0QG0lnREFZX0xsA19IUVgDZx8IAFAVVUBqRUMJRUptVg4BA0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM01_L18_Other-Terms.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m2",
+    "name": "Greetings & Introductions",
+    "image": "images/course/module_2.jpg",
+    "lessons": [
+      {
+        "id": "m2_l1",
+        "title": "Greetings",
+        "info": "Learn how to greet others in different contexts and situations.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVAVTEBpFkNXX0BuAl9IUQ8DPh8IBA0XVRU7EhZYF0FqAlxXAEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L01_Greetings.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m2_l2",
+        "title": "Introduction",
+        "info": "Learn how to introduce yourself and others properly.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQ0YGkZnRhNcXxtnWV1IUQsAax8JBQdFVRI5QEtXE086BVtUUUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L02_Greetings-And-Introductions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m2_l3",
+        "title": "Describing Yourself",
+        "info": "Learn how to describe yourself and your attributes.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVcUSkRpRRFWXxk7BQpIUVtTbx9SBFEQVUNvQ0BbQBs9AFtdBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L03_Describing-Yourself.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m2_l4",
+        "title": "Handling Basic Questions",
+        "info": "Understand how to handle basic questions effectively.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQQUSRQ8QEAMXxluVA5IUQhSOh8JCw0UVUhpQhANFx48Ug9VVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L04_Handling-Basic-Questions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m2_l5",
+        "title": "Language of Politeness",
+        "info": "Learn polite phrases and how to express politeness in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQBAHEduRBRcX0tpWApIUQoCaB8JC1EZVUlsERNcQE1sWFkGVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L05_Language-Of-Politeness.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m2_l6",
+        "title": "Importance of Please, Thank You, and Excuse Me",
+        "info": "Understand the importance of polite phrases in interactions.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVIUSEI6EUJcXx46AlVIUVwFPR9SV1ZEVUY6QkFaQEg8AwhUVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L06_Please-Thank-You-Excuse-Me.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m2_l7",
+        "title": "Describing Your Family",
+        "info": "Learn how to describe your family and relationships in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQUXTBJmQBdeX0g7VFpIUVpRbx8JVFYZVUQ9FERXQUtrVlpSA0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L07_Describing-Your-Family.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m2_l8",
+        "title": "Talking About Hobbies and Interests",
+        "info": "Learn how to talk about your hobbies and interests.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQQSTENqE0VdXxxuWFlIUVlUaB9SUwARVUZuFUEORUxmUA1TBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM02_L08_Hobbies-And-Interests.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m3",
+    "name": "Questions",
+    "image": "images/course/module_3.jpg",
+    "lessons": [
+      {
+        "id": "m3_l1",
+        "title": "Wh-questions",
+        "info": "Learn how to form and use Wh-questions (who, what, where, when, why).",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVVCG0doEUZfX0poWVhIUV9QOh8IAgITVURqFkELRB1pBQlQUkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM03_L01_Wh-Questions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m3_l2",
+        "title": "Yes/No Questions",
+        "info": "Learn how to ask yes/no questions in various situations.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVdCSUZqR0YJXxpnU1VIUVlSOx8IBlUQVUFtFEtbQBtpAg5SBkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM03_L02_Yes-No-Questions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m3_l3",
+        "title": "Tag Questions",
+        "info": "Learn how to form tag questions (e.g. 'isn't it?').",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQEQHUVuQhZcX04-U1RIUVpTaB9RBAQVVUJrQxBYEUhnA1pcV0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM03_L03_Tag-Questions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m3_l4",
+        "title": "Responding to Questions",
+        "info": "Learn how to respond to different types of questions effectively.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVISHkE5QxMMXxw5VwhIUQsDPh8JVAYTVRNnQBMKFk1oUApdU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM03_L04_Responding-To-Questions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m3_l5",
+        "title": "Hypothetical and Negative Questions",
+        "info": "Learn how to form and answer hypothetical and negative questions.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVZDHkI8QkJbX0ppWV1IUV9SPh9RClFFVRJmERZYERlsVF4AAEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM03_L05_Hypothetical-And-Negative-Questions.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m4",
+    "name": "Everyday Conversations",
+    "image": "images/course/module_4.jpg",
+    "lessons": [
+      {
+        "id": "m4_l1",
+        "title": "Making Small Talk",
+        "info": "Learn how to make small talk about weather, hobbies, and family.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVBATRJtRhRXXxs8B1tIUVgFOh8IUQQZVRM-EUQMRBo5WQlRBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM04_L01_Making-Small-Talk.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m4_l2",
+        "title": "Everyday Activities",
+        "info": "Learn how to talk about daily activities in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVVFHklqR0FZXxk-V19IUV4Abx8JVlFHVUQ9RURbQx1rVgoBUEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM04_L02_Everyday-Activities.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m4_l3",
+        "title": "Expressing Likes and Dislikes",
+        "info": "Learn how to express your preferences (likes and dislikes).",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQwXS0RrFEZdX05qVglIUVpTZx9SU1FFVUA6RBRXRR45BQ1QXEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM04_L05_Expressing-Likes-And-Dislikes.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m4_l4",
+        "title": "Understanding Cultural Differences",
+        "info": "Learn about cultural differences and how to navigate them in conversation.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQJEHUA5RBNZX0A9BFxIUVxYPB8IVlFEVUhoQEZcFh1tVA4BBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM04_L06_Understanding-Cultural-Differences.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m5",
+    "name": "Talking about Daily Activities",
+    "image": "images/course/module_5.jpg",
+    "lessons": [
+      {
+        "id": "m5_l1",
+        "title": "Daily Routines",
+        "info": "Learn to talk about daily routines and habits.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQxAQRRqFRFcX0g8VQlIUVpYaR8JAgVCVUdrEUNZFBpoVA9TBkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM05_L01_Daily-Routines.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m5_l2",
+        "title": "Verbs Related to Daily Activities",
+        "info": "Learn common verbs related to daily activities.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVEST0JtEUBXX0FvVF1IUVpUOR8JVgUSVRU8RkMKEEhqU15VVUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM05_L02_Verbs-For-Daily-Activities.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m5_l3",
+        "title": "Talking About Past, Present, and Future Activities",
+        "info": "Understand how to talk about activities in different tenses.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVZEGhVtRhYLX0xsUA5IUV9Zax9RUAESVRQ5FRdYSkpmB1QDUkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM05_L03_Past-Present-Future-Activities.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m6",
+    "name": "Expressing Needs & Opinions",
+    "image": "images/course/module_6.jpg",
+    "lessons": [
+      {
+        "id": "m6_l1",
+        "title": "Making Requests and Giving Instructions",
+        "info": "Learn how to make requests and give instructions in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQAXTkY8FhFaXxw-WFtIUVZTPh8JVFJEVRQ7QEtWQk5nAFoGBkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM06_L01_Making-Requests-And-Instructions.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m6_l2",
+        "title": "Importance of Modal Verbs",
+        "info": "Understand how modal verbs like shall, may, must, etc. can set the tone of a sentence.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVIXSkg9RRRdX0FuBFtIUVcEbB9SC1IQVRFnQURdFhltBAhRA0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM06_L02_Modal-Verbs.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m6_l3",
+        "title": "Expressing Agreement and Disagreement",
+        "info": "Learn how to express agreement and disagreement in conversation.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQETHURpRUUNXx0-BFxIUVcCaB9RB1ETVUBrREBXQ047VQ5TAUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM06_L03_Agreement-And-Disagreement.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m6_l4",
+        "title": "Asking for Help and Offering Assistance",
+        "info": "Understand how to ask for help and offer assistance in different situations.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQUZSEQ8SRZdXx1tV1lIUVoCOx9RVgITVUg5R0RfQEFsV1VQUUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM06_L04_Asking-For-Help.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m6_l5",
+        "title": "English for Different Moods",
+        "info": "Learn how to adjust your language to express different moods and emotions.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQVETxJsRUsOX0FtUwlIUVpQaB8IBAEUVRY-ExAOSktqVV5RU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM06_L05_English-For-Different-Moods.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m7",
+    "name": "New Gen Vocab",
+    "image": "images/course/module_7.jpg",
+    "lessons": [
+      {
+        "id": "m7_l1",
+        "title": "Internet Slangs",
+        "info": "Learn about common internet slang and abbreviations.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQYWTUlnQkNYX0E8Ag1IUVhVbx8JCwcUVRJrSEtdQBppVVgEVEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM07_L01_Internet-Slangs.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m7_l2",
+        "title": "Informal Contractions",
+        "info": "Learn about informal contractions commonly used in speech.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVUXHkNqRUINX0k6UQ1IUVhYPB8IBlUYVURnRkQJQklqA14DVUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM07_L02_Informal-Contractions.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m8",
+    "name": "Pronunciation Mistakes",
+    "image": "images/course/module_8.jpg",
+    "lessons": [
+      {
+        "id": "m8_l1",
+        "title": "The basics of pronouncing words",
+        "info": "Learn the basics of pronouncing English words.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQAZHhJsSRELXxo9UwhIUVhXPR8IUAEUVUJrQ0NdQhtpUQhWA0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM08_L01_Basics-Of-Pronouncing-Words.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m8_l2",
+        "title": "Brands mispronounced",
+        "info": "Explore the common brands that are mispronounced.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVdEQEFmERRaX0toVQlIUVZWaR9RAgMYVRJsQktbRR1pVAhQU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM08_L02_Brands-Mispronounced.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m8_l3",
+        "title": "Common food items mispronunciations",
+        "info": "Learn how to correctly pronounce common food items.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQERG0FpR0tbX0FsUgpIUVkEOh8JUwAQVRJtFhdWFhluUgpQBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM08_L03_Common-Food-Mispronunciations.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m8_l4",
+        "title": "Commonly mispronounced day to day words",
+        "info": "Improve your pronunciation of everyday words.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVASHUZtFkIJXxw-VF1IUQ1ZZx8IVwYYVUA8QEpbRU07VVxSVUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM08_L04_Commonly-Mispronounced-Words.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m9",
+    "name": "English Advanced",
+    "image": "images/course/module_9.jpg",
+    "lessons": [
+      {
+        "id": "m9_l1",
+        "title": "Idioms",
+        "info": "Understand and use common English idioms.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVYTHhVtRhMOXxxnVFRIUVtRPB8IBlYQVRJoR0ZeQx07UVsABkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM09_L01_Idioms.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m9_l2",
+        "title": "Phrasal Verbs",
+        "info": "Learn how to use phrasal verbs in everyday conversation.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQERQRNvFhRdX0k8A15IUVhRaB9RV1FDVUFpE0BXRx1pWVwHUkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM09_L02_Phrasal-Verbs.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m9_l3",
+        "title": "Confusing Word Pairs",
+        "info": "Learn the difference between confusing word pairs.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQwZQUE9Q0pWX0g8BVxIUVtUah9SAwwRVUk5FUNbQk89WQpVVEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM09_L03_Confusing-Word-Pairs.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m9_l4",
+        "title": "Commonly Misused Words",
+        "info": "Improve your use of commonly misused words in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQRHQRM8EkEMX0E8WVpIUQtQOx8IC1UQVRJtEhFaEUw9Ug0HAEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM09_L04_Commonly-Misused-Words.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m9_l5",
+        "title": "Quantifiers",
+        "info": "Master the use of quantifiers in English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQNEThRsQEcLX0FoB1pIUQ8HbR8JVgYTVRI9QhFYF0htU1wHBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM09_L05_Quantifiers.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m10",
+    "name": "Business English",
+    "image": "images/course/module_10.jpg",
+    "lessons": [
+      {
+        "id": "m10_l1",
+        "title": "Differences between General English and Business English",
+        "info": "Learn the key differences between general and business English.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQYXHUg9SBYKXxlsWVhIUV0AaR9SAgITVUhuSBZaEEhuVVlWBkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L01_General-Vs-Business-English.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m10_l2",
+        "title": "Key terms and phrases used in emails",
+        "info": "Master the essential terms and phrases for writing emails.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVUXTENnEUMLX0o-VQ9IUQ1RaR9RUFcYVUc8REtdQUhvVg0GBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L02_Key-Terms-In-Emails.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m10_l3",
+        "title": "Key terms and phrases used in the business world",
+        "info": "Learn common business terminology and phrases.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVYVTUVtRUYOX01sVl1IUVZZOx9SClYQVUE8ExMJFEpnVQpQUkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L03_Key-Terms-In-Business.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m10_l4",
+        "title": "Professional Communication Skills",
+        "info": "Enhance your communication skills for a professional environment.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQIWSRVsRkpZXxk7U1lIUQ1QaR8JAAQTVUM7RxdZQkxmA1oHAUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L04_Professional-Communication-Skills.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m10_l5",
+        "title": "Meetings and Negotiations",
+        "info": "Learn the language and strategies for effective meetings and negotiations.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQ1DHUdvFUBeX0A5VlhIUVkAPR9SAQFEVUE7QBAKE045VA1VVEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L05_Meetings-And-Negotiations.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m10_l6",
+        "title": "Job Interviews",
+        "info": "Job Interviews",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQUZG0JnFBNWX0ltU1tIUQtYbB9RUVJCVUFnRUtbFh1qUFhdB0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L06_Job-Interviews.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m10_l7",
+        "title": "Small talk in business context",
+        "info": "Small talk in business context",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQRDHEA6FBdbXxtvV1VIUQxQbB9SBQJHVRQ8QRNcRR06BF5UU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L07_Small-Talk-In-Business.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m10_l8",
+        "title": "Email and written correspondence",
+        "info": "Email and written correspondence",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQcVT0FpRxBZXxxrAltIUVkHPB9SVFdFVRY7REFeShk8VVxUVUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM10_L08_Email-And-Written-Correspondence.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m11",
+    "name": "Comprehension Passages",
+    "image": "images/course/module_11.jpg",
+    "lessons": [
+      {
+        "id": "m11_l1",
+        "title": "Tommy and Rosie's Forest Adventure",
+        "info": "A story that teaches lessons through Tommy and Rosie's adventure in the forest.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQVHShNuQ0daXxw6Aw1IUVxQOh9RU1FFVUNsFkVbSxw8V1UEA0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM11_L01_Tommys-Forest-Adventure.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m11_l2",
+        "title": "Lily and the Mystery of the Haunted Mansion",
+        "info": "An intriguing story of Lily's adventure through a haunted mansion.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVIYSBRqQxZfX0lnA1lIUQpSah8IAwQTVRNpE0UNEx45VVVRUUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM11_L02_Lily-And-The-Haunted-Mansion.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m11_l3",
+        "title": "Jamie's Race: A Lesson in Friendship",
+        "info": "A story about Jamie's race and the importance of friendship.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQwTQEVqFENfXx5qUw5IUVdVbB9SVAZDVUVpRUdXRUA9AFtUU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM11_L03_Jamies-Race.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m11_l4",
+        "title": "Elena's Canvas: A Tale of Resilience and Artistry",
+        "info": "The inspiring story of Elena's artistic journey and resilience.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQZDThU6QBMKX0BrVA5IUQ1VOh8JVAJCVUk6R0MMRRw8VFRVU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM11_L04_Elenas-Canvas.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m11_l5",
+        "title": "Adrian and Isabella's Love Story",
+        "info": "A romantic story of Adrian and Isabella.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQJCS0A9FBRaXxtnVlxIUV1SZh9RVlYXVRJvFRFeQB1vBFUGU0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM11_L05_Adrian-And-Isabellas-Love-Story.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m12",
+    "name": "Songs' Analysis",
+    "image": "images/course/module_12.jpg",
+    "lessons": [
+      {
+        "id": "m12_l1",
+        "title": "See You Again by Wiz Khalifa",
+        "info": "Learn language concepts through the song 'See You Again' by Wiz Khalifa.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQBHThNsRRdaX0FrUApIUVlTbR9RBAMYVUZmQRRdFEprVF8BV0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM12_L01_See-You-Again.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m12_l2",
+        "title": "Let Her Go by Passenger",
+        "info": "Learn language concepts through the song 'Let Her Go' by Passenger.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQMUHkZqQUVZX0w5VV5IUQtWOR9RAQJCVUBnEkIKFh1sWVkHBEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM12_L02_Let-Her-Go.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m12_l3",
+        "title": "Uptown Funk by Mark Ronson",
+        "info": "Learn language concepts through the song 'Uptown Funk' by Mark Ronson.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVYVHEZrQ0ZXXxk-VA5IUVtTPR8IUVEXVUFqQxAOQB5nBQlTB0ERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM12_L03_Uptown-Funk.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m12_l4",
+        "title": "Photograph by Ed Sheeran",
+        "info": "Learn language concepts through the song 'Photograph' by Ed Sheeran.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQcZHUk5RxRZX0w6UA9IUV9UOh8JVgMRVRZvFERYRUw6WFVVVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM12_L04_Photograph.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m12_l5",
+        "title": "Flowers by Miley Cyrus",
+        "info": "Learn language concepts through the song 'Flowers' by Miley Cyrus.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVJAGxNnExZcX0tpU1VIUVYDbx9RB1VHVUE7SBZaSh5vUg1QAUERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM12_L05_Flowers.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m13",
+    "name": "Poetry Analysis",
+    "image": "images/course/module_13.jpg",
+    "lessons": [
+      {
+        "id": "m13_l1",
+        "title": "Remember by Christina Rossetti",
+        "info": "Understand the poetic language and themes of Christina Rossetti's 'Remember'.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHQcVHkZpRRBYX0E7VVhIUQ1YPB8ICwAVVUY-EhBXS0k8Vw0GUkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM13_L01_Remember-By-Christina-Rossetti.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m13_l2",
+        "title": "Design by Robert Frost",
+        "info": "Explore the language and meaning of Robert Frost's poem 'Design'.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVBDQEVvSRZeX0FsAwhIUQ1ZOR8JBFEQVUBnE0JZFk85UAlVBkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM13_L02_Design-By-Robert-Frost.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course_m14",
+    "name": "Movie Stars' Speech Analysis",
+    "image": "images/course/module_14.jpg",
+    "lessons": [
+      {
+        "id": "m14_l1",
+        "title": "Shah Rukh Khan at TED",
+        "info": "Listen and learn from Shah Rukh Khan's inspiring TED talk.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVIVTkhuEkBaX08-WAlIUVtUOh8IVAMTVRFtQUYJFkFmA1kGAEERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM14_L01_Shah-Rukh-Khan-At-TED.pdf",
+            "download": true
+          }
+        ]
+      },
+      {
+        "id": "m14_l2",
+        "title": "Viola Davis - We Are All History",
+        "info": "An inspiring speech by Viola Davis about our place in history.",
+        "video_url": "https://rolexcoderz.com/AleenaRais/RolexCoderZ.php?hehe=GgwrER9fSkEXJR8GAwJDThM5Fl9WSktxA0EGAQBPMVdEHVYZSRU6RkVdX0tsVFRIUV1ZbR9SBwcZVUFrRhYNE0lnVV5XVkERM1NJXl1SDF4yQwdX",
+        "resources": [
+          {
+            "type": "pdf",
+            "title": "PDF Notes",
+            "url": "https://rolexcoderz.com/PDF/?url=https%3A%2F%2Frolexcoderz.com%2FAleenaRais%2Fpdf-notes%2FM14_L02_Viola-Davis-We-Are-All-History.pdf",
+            "download": true
+          }
+        ]
+      }
+    ]
+  }
+]
